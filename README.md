@@ -1,1 +1,1 @@
-# KhazadDutz.github.io
+Olá, me chamo Mauricio Ieiri. Bracharel em Educação Física, atuei durante 7 anos na área, até decidir vir para a área de Desenvolvimento Web. Atualmente sou estudante na Trybe.
