@@ -76,6 +76,11 @@ h3 {
   text-decoration: none;
 }
 
+.item-da-lista-link:hover {
+  text-decoration: underline;
+  color: aqua;
+}
+
 .secao-listas-hab-int-cont {
   margin-left: 20px;
 }
@@ -86,4 +91,16 @@ h3 {
 
 .otimo-comunicador {
   color:cornflowerblue
+}
+
+.secao-interesse {
+  margin-bottom: 20px;
+}
+
+.secao-contato {
+  margin-bottom: 20px;
+}
+
+.imagem-link {
+  width: 20px;
 }
